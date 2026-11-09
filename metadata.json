@@ -1,0 +1,6 @@
+{
+  "name": "DOAWY AI | دوائي - Family Medication Management",
+  "description": "Family-centered medication management, smart adherence tracking, and patient health education platform connecting caregivers and patients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
